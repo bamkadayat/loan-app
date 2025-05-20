@@ -10,6 +10,13 @@ The application is integrated with Appwrite to handle authentication, user manag
 - React Router: Client-side routing with protected pages.
 - Appwrite: Backend-as-a-service (BaaS) for auth, database, and functions.
 
+## 🎯 Key Features (Planned or Implemented)
+- 🔐 User registration, login, and email verification
+- 📄 Loan application form with validation
+- 👤 User dashboard to track applications
+- 📬 Notifications for approval or rejection
+- 📂 Admin panel for managing user submissions 
+
 # React + TypeScript + Vite
 ## Expanding the ESLint configuration
 

@@ -1,7 +1,7 @@
 # About This Project
 Loan app is a modern, responsive loan application web platform built using React, Vite, Tailwind CSS, and Redux Toolkit. The platform enables users to securely apply for loans, manage their loan status, and receive timely updates — all within an intuitive, user-friendly interface.
 
-The application is integrated with Appwrite to handle authentication, user management, and secure backend operations. Whether users are seeking personal loans, business loans, or student funding, the platform provides a streamlined and reliable experience from application to approval.
+The application is integrated with Appwrite to handle authentication, user management, and secure backend operations. W
 
 # React + TypeScript + Vite
 ## Expanding the ESLint configuration
